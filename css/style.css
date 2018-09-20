@@ -8,6 +8,10 @@
 
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
+/*added myself*/
+#strive{
+  padding-top: 50px;
+}
 
 body {
   background: #ffffff;
@@ -311,13 +315,13 @@ nav ul li a {
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
-  text-align: left;
+  text-align: center;
 }
 
 #about .about-descr .separator {
-  max-width: 80%;
+  /*max-width: 80%;*/
   margin-bottom: 0;
-  text-align: left;
+  text-align: center;
 }
 
 /*-----------------------------------------------------------------------------------*/
